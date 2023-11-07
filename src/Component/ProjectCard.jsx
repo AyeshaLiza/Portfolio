@@ -31,7 +31,10 @@ const ProjectCard = ({ project }) => {
      
       <div>
       <div className="badge text-black font-medium text-md badge-accent p-4">{catg}</div>
-      <div className="badge text-black font-medium text-md badge-accent p-4">{catg2}</div>
+      {
+        catg2 && 
+        <div className="badge text-black font-medium text-md badge-accent p-4">{catg2}</div>
+      }
       </div>
 
       </div>
