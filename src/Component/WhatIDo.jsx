@@ -102,6 +102,7 @@ const WhatIDo = () => {
     </ul>
     
   </div>
+</div>
   <div className="card-body">
     <h2 className="card-title text-blue-300 text-3xl">Wordpress Theme Customization with Elementor</h2>
     <ul className="my-7 space-y-5">
@@ -154,7 +155,6 @@ const WhatIDo = () => {
     </ul>
     
   </div>
-</div>
   <div className="card w-96   mx-5  shadow-lg shadow-emerald-200">
   <div className="card-body">
     <h2 className="card-title text-blue-300 text-3xl">web Development</h2>
