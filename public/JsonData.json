@@ -1,0 +1,86 @@
+[
+  {
+    "id" : 1,
+    "name" : "Flower Shop",
+    "catg" : " vanilla css",
+    "demoLink" : "https://warlike-card.surge.sh/",
+    "photoUrl" : "https://i.ibb.co/Zzzh4WP/flower.png"
+  },
+  {
+    "id" : 2,
+    "name" : "Gamer Zone",
+    "catg" : "vanilla css",
+    "demoLink" : "https://rambunctious-river.surge.sh/",
+    "photoUrl" : "https://i.ibb.co/09RbSmb/game.png"
+  },
+  {
+   "id" : 3,
+   "name" : "Fruit Burst",
+   "catg" : " Tailwind CSS",
+   "demoLink" : "http://sore-animal.surge.sh/",
+   "photoUrl" : "https://i.ibb.co/NZ85F99/fruit.png"
+ },
+ {
+  "id" : 4,
+  "name" : "Ulence Shop",
+  "catg" : " vanilla css",
+  "demoLink" : "https://rambunctious-river.surge.sh/",
+  "photoUrl" : "https://i.ibb.co/85F48Ld/Ulence-Shop.png"
+ },
+ {
+  "id" : 5,
+ "name" : "Web Designer Portfolio",
+ "catg" : "Bootstrap",
+ "demoLink" : "http://dusty-straw.surge.sh/",
+ "photoUrl" : "https://i.ibb.co/9W4F81z/Webdesign.png"
+},
+{
+  "id" : 6,
+  "name" : "Vex Smart Watch",
+  "catg" : "Bootstrap",
+  "demoLink" : "http://sore-animal.surge.sh/",
+  "photoUrl" : "https://i.ibb.co/1Zv7HQm/watch.png"
+},
+{
+  "id" : 7,
+  "name" : "Summer Sale",
+  "catg" : " Javascript",
+  "demoLink" : "http://physical-crook.surge.sh/",
+  "photoUrl" : "https://i.ibb.co/Y8g16hJ/summer.png"
+},
+{
+  "id" : 8,
+  "name" : "Ph Tube",
+  "catg" : "Javascript",
+  "demoLink" : "http://assignment_5l.surge.sh/",
+  "photoUrl" : "https://i.ibb.co/dML96wh/PHtube.png"
+},
+{
+  "id" : 9,
+  "name" : "Course Regestration",
+  "catg" : "Javascript",
+  "demoLink" : "https://faulty-pail.surge.sh/",
+  "photoUrl" : "https://i.ibb.co/vJ8tNGJ/course2.png"
+ },
+ {
+  "id" : 10,
+  "name" : "Donation Campaign",
+  "catg" : "React",
+  "demoLink" : "http://political-change-ayesha.surge.sh/",
+  "photoUrl":"https://i.ibb.co/FmdzPvX/donation.png" 
+ },
+ {
+  "id" : 11,
+  "name" : "Event Management with Firebase",
+  "catg" : "React",
+  "demoLink" : "https://ayeshaevent.surge.sh/",
+  "photoUrl" : "https://i.ibb.co/LpzZ3n9/event.png"
+ }
+  
+
+ 
+
+
+  
+ 
+]
