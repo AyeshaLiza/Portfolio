@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
 const ProjectCard = ({ project }) => {
- const { id, name, catg, demoLink, photoUrl } = project || []
+ const { id, name, catg, catg2,  demoLink, photoUrl } = project || []
  // const [projectLink, setProjectLink] = useState('') || []
 
  const handleDemo = () => {
@@ -29,7 +29,11 @@ const ProjectCard = ({ project }) => {
       <div className='flex  justify-between '>
       <button onClick={handleDemo}  className="btn bg-slate-700 text-white font-medium text-lg rounded-xl">Demo</button>
      
+      <div>
       <div className="badge text-black font-medium text-md badge-accent p-4">{catg}</div>
+      <div className="badge text-black font-medium text-md badge-accent p-4">{catg2}</div>
+      </div>
+
       </div>
         
     </div>
