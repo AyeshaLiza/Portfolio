@@ -55,7 +55,14 @@ const Resume = () => {
       </div>
       <progress className="progress progress-info bg-white w-96" value={50} max="100"></progress>
       </div>
-
+      <div>
+      <div className='flex justify-between'>
+      <label className='text-white text-xl font-medium'>WordPress Theme customization with Elementor</label>
+      <label className='text-white text-xl font-medium'>60%</label>
+      </div>
+      <progress className="progress progress-info bg-white w-96" value={60} max="100"></progress>
+      </div>
+      <div>
       </div>
 
       {/* button */}
