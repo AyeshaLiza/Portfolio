@@ -62,8 +62,7 @@ const Resume = () => {
       </div>
       <progress className="progress progress-info bg-white w-96" value={60} max="100"></progress>
       </div>
-      <div>
-      </div>
+      
 
       {/* button */}
      <div  className='my-6 max-w-xl space-x-3 space-y-3 text-justify'>
@@ -78,10 +77,11 @@ const Resume = () => {
      <button className="btn btn-outline btn-info">Node Js</button>
      <button className="btn btn-outline btn-info">MongoDB </button>
      <button className="btn btn-outline btn-info">Firebase Authentication</button>
+     <button className="btn btn-outline btn-info">Elementor</button>
      
      </div>
      </div>
-
+</div>
   </div>
  );
 };
