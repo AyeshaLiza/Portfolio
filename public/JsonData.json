@@ -38,7 +38,7 @@
   "id" : 6,
   "name" : "Vex Smart Watch",
   "catg" : "Bootstrap",
-  "demoLink" : "http://sore-animal.surge.sh/",
+  "demoLink" : "http://nice-chairs.surge.sh/",
   "photoUrl" : "https://i.ibb.co/1Zv7HQm/watch.png"
 },
 {
@@ -64,10 +64,10 @@
  },
  {
   "id" : 10,
-  "name" : "Donation Campaign",
+  "name" : "Brand Shop",
   "catg" : "React",
-  "demoLink" : "http://political-change-ayesha.surge.sh/",
-  "photoUrl":"https://i.ibb.co/FmdzPvX/donation.png" 
+  "demoLink" : "https://brand-shops.vercel.app/",
+  "photoUrl":"https://i.ibb.co/MhMshHx/brand-Shop.png" 
  },
  {
   "id" : 11,
@@ -75,6 +75,13 @@
   "catg" : "React",
   "demoLink" : "https://ayeshaevent.surge.sh/",
   "photoUrl" : "https://i.ibb.co/LpzZ3n9/event.png"
+ },
+ {
+  "id" : 12,
+  "name" : "Donation Campaign",
+  "catg" : "React",
+  "demoLink" : "http://political-change-ayesha.surge.sh/",
+  "photoUrl":"https://i.ibb.co/FmdzPvX/donation.png" 
  }
   
 
