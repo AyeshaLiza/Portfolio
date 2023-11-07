@@ -43,15 +43,15 @@ const Resume = () => {
        <h1 className='text-start text-blue-400 text-xl'>Working Skills</h1>
       <div>
       <div className='flex justify-between'>
-      <label className='text-white '>Web Design</label>
-      <label className='text-white'>80%</label>
+      <label className='text-white text-xl font-medium'>Web Design</label>
+      <label className='text-white text-xl font-medium'>80%</label>
       </div>
       <progress className="progress progress-info bg-white w-96" value={80} max="100"></progress>
       </div>
       <div>
       <div className='flex justify-between'>
-      <label className='text-white'>React JS</label>
-      <label className='text-white'>50%</label>
+      <label className='text-white text-xl font-medium'>React JS</label>
+      <label className='text-white text-xl font-medium'>50%</label>
       </div>
       <progress className="progress progress-info bg-white w-96" value={50} max="100"></progress>
       </div>
